@@ -15,7 +15,7 @@ Not surprisingly Western countries are indeed over represented. But with Reuters
 Other countries are almost completely ignored, most notably, Somalia. The reasons for the lack of coverage here might be varied: no military involvement, low economic interest, too dangerous for journalist? A more detailed analysis of country statistics like economy, and resources will certainly shed light on this.
  
  ## Original datasets:
- https://www.start.umd.edu/gtd/
+ https://www.start.umd.edu/gtd/ (globalterrorismdb_0617dist.xls)
  
- https://github.com/philipperemy/Reuters-full-data-set
+ https://github.com/philipperemy/Reuters-full-data-set (reuters.csv)
 
